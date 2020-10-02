@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["marcos.ktn@gmail.com"]
   spec.summary       = %q{OmniAuth strategy for Sign In with Brightspace}
   spec.description   = spec.summary
-  spec.homepage      = "todo"
+  spec.homepage      = "https://github.com/mktn87/omniauth-brightspace"
   spec.license       = "GPL-3.0"
   
   # Specify which files should be added to the gem when it is released.
