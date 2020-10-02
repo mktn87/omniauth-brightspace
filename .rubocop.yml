@@ -1,0 +1,19 @@
+# Layout/LineLength:
+Metrics/LineLength:
+  Max: 80
+
+# Ignore documentation at the top of classes
+Style/Documentation:
+  Enabled: false
+
+# Ignore the length of classes
+Metrics/ClassLength:
+  Enabled: false
+
+# TODO: enable once we upgrade to ruby 2.3+
+Style/SafeNavigation:
+  Enabled: false
+
+# TODO: generated errors in the files in spec/factories
+Style/SymbolProc:
+  Enabled: false
