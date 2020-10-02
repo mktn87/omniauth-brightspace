@@ -5,7 +5,7 @@ require 'net/https'
 
 module OmniAuth
   module Strategies
-    class Brighspace < OmniAuth::Strategies::OAuth2      
+    class Brightspace < OmniAuth::Strategies::OAuth2
     end
   end
 end
